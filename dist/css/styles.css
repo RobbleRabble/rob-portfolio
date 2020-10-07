@@ -450,12 +450,6 @@ mark, .mark {
   height: auto;
 }
 
-.img-resume {
-  width: 100%;
-  height: auto;
-  align-content: center;
-}
-
 .img-thumbnail {
   padding: 0.25rem;
   background-color: #fff;
@@ -463,6 +457,12 @@ mark, .mark {
   border-radius: 0.5rem;
   max-width: 100%;
   height: auto;
+}
+
+.img-resume {
+  width: 100%;
+  height: auto;
+  align-content: center;
 }
 
 .figure {
@@ -8869,10 +8869,6 @@ a.bg-dark:hover, a.bg-dark:focus, button.bg-dark:hover, button.bg-dark:focus {
 
 .font-italic {
   font-style: italic !important;
-}
-
-.text-white {
-  color: #fff !important;
 }
 
 .text-primary {
